@@ -1,0 +1,81 @@
+body{
+font-family: Comic Sans MS;
+
+
+}
+#Chicken{
+border:solid black 2px;
+width: 90%;
+height: auto;
+float: left;
+box-sizing: border-box;
+padding:20px 20px 20px 20px;
+margin-left: 5%;
+margin-bottom: 10px;
+background-color: lightgray;
+font-family: Comic Sans MS;
+}
+#Beef{
+    border:solid black 2px;
+    width: 90%;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    padding:20px 20px 20px 20px;
+    margin-left: 5%;
+    margin-bottom: 10px; 
+    background-color: lightgray;  
+    font-family: Comic Sans MS;
+}
+#Sushi
+{
+    border:solid black 2px;
+    width: 90%;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+padding:20px 20px 20px 20px;
+margin-left: 5%;
+margin-bottom: 10px;
+background-color: lightgray;
+font-family: Comic Sans MS;
+}
+h2{
+text-align: center;
+font-family: Comic Sans MS;
+
+
+}
+#he{
+margin-top: 40px;
+margin-bottom:40px;
+
+}
+h1{  
+text-align: center;
+font-family: Comic Sans MS;
+
+}
+.navlinks{
+  margin-left: 6rem !important;
+  margin-right: 5rem !important;
+  font-weight: 500 !important;
+  visibility: hidden;
+  background-color: grey;
+}
+.nav{
+background-color: grey;
+
+}
+@media only screen and (max-width: 600px) {
+
+
+
+ .navlinks {
+  margin-left:0rem !important;
+  margin-right: 0rem !important;
+visibility: visible;
+text-align: center;
+}
+  
+}
